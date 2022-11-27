@@ -526,7 +526,7 @@ nav .container .links:last-child a:hover {
 .gallery .container .main-container {
     min-height: 50vh;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(390px, 1fr));
     place-items: center;
     background: repeating-linear-gradient(20deg, #313131, black 100px);
     border: none;
